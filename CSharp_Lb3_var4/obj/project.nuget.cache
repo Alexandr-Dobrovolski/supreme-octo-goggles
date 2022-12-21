@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zinZAHgh5+iv7OFa6jnNmtYDCNxUhKrGu5EtUUnHAAB7OcNDpdNs9Ye1SnlWBRKkwOcLKljoEYe7PpT8j8BeRQ==",
+  "success": true,
+  "projectFilePath": "E:\\😐Desktop😐\\C#Net\\CSharp_Lb3_var4\\CSharp_Lb3_var4\\CSharp_Lb3_var4\\CSharp_Lb3_var4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fuutarou_Uesugi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Fuutarou_Uesugi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
